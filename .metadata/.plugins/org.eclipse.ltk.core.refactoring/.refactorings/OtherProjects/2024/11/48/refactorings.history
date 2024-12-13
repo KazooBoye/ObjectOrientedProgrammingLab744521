@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;hust.soict.globalict.garbage&apos; to &apos;hust.soict.ite6.garbage&apos;&#x0A;- Original project: &apos;OtherProjects&apos;&#x0A;- Original element: &apos;OtherProjects/src/hust.soict.globalict.garbage&apos;&#x0A;- Renamed element: &apos;OtherProjects/src/hust.soict.ite6.garbage&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;hust.soict.globalict.garbage&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;hust.soict.globalict.garbage" name="hust.soict.ite6.garbage" qualified="false" references="true" stamp="1732441412413" textual="false" version="1.0"/>
+</session>
